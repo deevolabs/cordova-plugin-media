@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-media",
+  "name": "cordova-plugin-media-fixed",
   "version": "2.3.1-dev",
-  "description": "Cordova Media Plugin",
+  "description": "Cordova Media Plugin Fixed for Marshmellow",
   "cordova": {
     "id": "cordova-plugin-media",
     "platforms": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media"
+    "url": "https://github.com/deevolabs/cordova-plugin-media"
   },
   "keywords": [
     "cordova",
@@ -40,7 +40,7 @@
     "test": "npm run jshint",
     "jshint": "jshint www && jshint src && jshint tests"
   },
-  "author": "Apache Software Foundation",
+  "author": "Fabio Dexter",
   "license": "Apache-2.0",
   "devDependencies": {
     "jshint": "^2.6.0" 
